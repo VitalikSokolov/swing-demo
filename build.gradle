@@ -14,7 +14,7 @@ plugins {
 }
 
 launch4j {
-  mainClassName = 'SwingDemo.java'
+  mainClassName = 'SwingDemo'
 }
 
 // In this section you declare where to find the dependencies of your project
